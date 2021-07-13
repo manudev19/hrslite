@@ -1,0 +1,17 @@
+Hi %recipientFirstName%,
+
+%performerFullName% has assigned leave to %assigneeFullName%. The leave details:
+
+%leaveDetails%
+
+You were sent this mail, as you are a supervisor assigned for %assigneeFullName%.
+
+Please go to the below link, and either cancel or view leave details from Leave List:
+
+http://hrm.sti.com/symfony/web/index.php/leave/viewLeaveList/reset
+
+For any help email us at support.hrm@suntechnologies.com
+
+Thank you.
+
+This is an automated notification.

@@ -1,0 +1,22 @@
+Hi %recipientFirstName%,
+
+
+Your timesheet entry has been rejected. Below are the details.
+
+	 Date                                     Status            	  Rejected By           
+   =========================================================
+  %StartDate% to %enddate%           %status%	        %headName%     
+
+   
+     	Reason 
+   ================
+  %comment%
+
+Kindly visit the below link to correct the timesheet:
+http://hrm.sti.com/symfony/web/index.php/time/viewMyTimesheet?timesheetStartDate=%timesheetStartDate%.
+ 
+For any help, email us at support.hrm@suntechnologies.com
+
+Thank you.
+
+This is an automated notification.

@@ -1,0 +1,16 @@
+Hi %recipientFirstName%,
+
+
+Your Sun HRM account is setup. 
+
+Please login to Sun HRM @ http://hrm.sti.com .
+
+You can use your system credentials to login.
+
+
+For any help email us at support.hrm@suntechnologies.com
+
+
+Thank you.
+
+This is an automated notification.

@@ -1,0 +1,16 @@
+Hi %recipientFirstName%,
+
+%performerFullName% has applied for leave. The leave details:
+
+%leaveDetails%      
+You were sent this mail, as you are a supervisor assigned for %performerFirstName%.
+
+Please go to the below link, and either approve or reject from Leave List:
+
+http://hrm.sti.com/symfony/web/index.php/leave/viewLeaveList/reset
+
+For any help email us at support.hrm@suntechnologies.com
+
+			
+Thank you.
+This is an automated notification.

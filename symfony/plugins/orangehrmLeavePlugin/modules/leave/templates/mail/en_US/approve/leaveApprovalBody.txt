@@ -1,0 +1,15 @@
+Hi %recipientFirstName%,
+
+%performerFullName% has approved your leave request for following days:
+
+%leaveDetails%
+
+Please go to the below link to view leave details:
+
+http://hrm.sti.com/symfony/web/index.php/leave/viewMyLeaveList
+
+For any help email us at support.hrm@suntechnologies.com
+
+Thank you.
+
+This is an automated notification.

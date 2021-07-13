@@ -1,0 +1,13 @@
+Hi %recipientFirstName%,
+
+%performerFullName% has approved the leave request of %applicantFullName% for following days:
+
+%leaveDetails%
+
+You were sent this mail, as you are a supervisor assigned for %assigneeFullName%..
+
+For any help email us at support.hrm@suntechnologies.com
+
+Thank you.
+
+This is an automated notification.

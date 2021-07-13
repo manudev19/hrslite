@@ -1,0 +1,26 @@
+
+Hi %recipientFirstName%,
+
+The Expense Report of %empName% has been %status% by %headName%. Below are the details.
+========================================================================
+Expense Id 		: %expenseId%
+Employee Id		: %empId%            
+Employee Name 	: %empName%
+Client Name 		: %clientName%
+Project Name 		: %projectName%
+Submitted On 		: %submitDate%
+Expense Due INR      	: %expenseDueINR%
+Expense Due USD      	: %expenseDueUSD%
+========================================================================
+
+Comment :
+%comment%
+
+Kindly visit the below link to view/modify the expense report:
+http://hrm.sti.com%expenseUrlAccount%
+ 
+For any help, email us at support.hrm@suntechnologies.com
+
+Thank you.
+
+This is an automated email notification.

@@ -1,0 +1,2 @@
+
+Leave Notification - %performerFullName% Has Approved the Leave Request of %applicantFullName%
